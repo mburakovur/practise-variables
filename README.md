@@ -1,0 +1,2 @@
+# practise-variables
+variables examples
